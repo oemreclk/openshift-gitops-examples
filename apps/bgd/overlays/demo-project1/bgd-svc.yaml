@@ -5,6 +5,7 @@ metadata:
   labels:
     app: bgd
   name: bgd
+  namespace: demo-project1
 spec:
   ports:
   - port: 8080
